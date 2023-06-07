@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://2020.24h24l.org/images/banner-programacion.jpg" alt="[Texto alternativo]" style="border-radius: 50%; box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.75);"><br>
+  <img src="https://2020.24h24l.org/images/banner-programacion.jpg" alt="[Texto alternativo]" style="border-radius: 5%; box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.75);"><br>
   <span style="color:#F2C94C; font-size: 36px;">Hola! Mi nombre es David Calle</span>
 </h1>
 
