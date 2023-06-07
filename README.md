@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tep.pucmm.edu.do/PublishingImages/Educacion-continuada/Intro-Programacion-banner-2.jpg" alt=""><br>
+  <img src="https://2020.24h24l.org/images/banner-programacion.jpg" alt=""><br>
   <span style="color:#F2C94C; font-size: 36px;">David Calle</span>
 </h1>
 
