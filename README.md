@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.fusioninformatics.com/images/seo-banner/nodejs-banner.jpg" alt="[Texto alternativo]"><br>
+  <img src="https://i0.wp.com/nlindia.com/wp-content/uploads/2021/06/node-js-banner.jpg?resize=802%2C201&ssl=1" alt="[Texto alternativo]"><br>
   <span style="color:#F2C94C; font-size: 36px;">Tu Nombre</span>
 </h1>
 
