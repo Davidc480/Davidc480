@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="[Enlace a tu logo o imagen personalizada]" alt="[Texto alternativo]"><br>
-  Tu Nombre
+  <span style="color:#F2C94C">Tu Nombre</span>
 </h1>
 
 <p align="center">
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:[tu correo electrónico]">Email</a> |
-  <a href="[Enlace a tu perfil de LinkedIn]">LinkedIn</a> |
-  <a href="[Enlace a tu sitio web personal o portafolio]">Sitio web</a>
+  <a href="mailto:[tu correo electrónico]" style="color:#6C63FF">Email</a> |
+  <a href="[Enlace a tu perfil de LinkedIn]" style="color:#6C63FF">LinkedIn</a> |
+  <a href="[Enlace a tu sitio web personal o portafolio]" style="color:#6C63FF">Sitio web</a>
 </p>
 
 ## Resumen
