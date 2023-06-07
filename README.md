@@ -1,16 +1,16 @@
 <h1 align="center">
   <img src="[Enlace a tu logo o imagen personalizada]" alt="[Texto alternativo]"><br>
-  <span style="color:#F2C94C">Tu Nombre</span>
+  <span style="color:#F2C94C; font-size: 36px;">Tu Nombre</span>
 </h1>
 
 <p align="center">
-  <b>[Descripción breve sobre ti y tus habilidades principales]</b>
+  <b style="font-size: 20px;">[Descripción breve sobre ti y tus habilidades principales]</b>
 </p>
 
 <p align="center">
-  <a href="mailto:[tu correo electrónico]" style="color:#6C63FF">Email</a> |
-  <a href="[Enlace a tu perfil de LinkedIn]" style="color:#6C63FF">LinkedIn</a> |
-  <a href="[Enlace a tu sitio web personal o portafolio]" style="color:#6C63FF">Sitio web</a>
+  <a href="mailto:[tu correo electrónico]" style="color:#6C63FF; text-decoration: none; font-size: 18px;">Email</a> |
+  <a href="[Enlace a tu perfil de LinkedIn]" style="color:#6C63FF; text-decoration: none; font-size: 18px;">LinkedIn</a> |
+  <a href="[Enlace a tu sitio web personal o portafolio]" style="color:#6C63FF; text-decoration: none; font-size: 18px;">Sitio web</a>
 </p>
 
 ## Resumen
@@ -96,5 +96,9 @@
 - [Interés 3]
 
 <p align="center">
-  ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si te gustaría conocer más detalles sobre mis proyectos y experiencias. Estoy emocionado/a de ser parte de la comunidad tecnológica y contribuir a soluciones innovadoras.
-</p> 
+  <span style="font-size: 24px;">¡Gracias por visitar mi perfil de GitHub!</span>
+  <br>
+  <span style="color:#F2C94C; font-size: 18px;">No dudes en contactarme si tienes alguna pregunta o si te gustaría conocer más detalles sobre mis proyectos y experiencias.</span>
+  <br>
+  <span style="color:#F2C94C; font-size: 18px;">Estoy emocionado/a de ser parte de la comunidad tecnológica y contribuir a soluciones innovadoras.</span>
+</p>
