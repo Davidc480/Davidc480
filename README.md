@@ -97,4 +97,4 @@
 
 <p align="center">
   ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si te gustaría conocer más detalles sobre mis proyectos y experiencias. Estoy emocionado/a de ser parte de la comunidad tecnológica y contribuir a soluciones innovadoras.
-</p>
+</p> 
