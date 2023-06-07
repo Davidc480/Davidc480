@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.codigomaster.com.br/wp-content/uploads/2022/11/Nodejs-banner-1.jpg" alt=""><br>
+  <img src="https://tep.pucmm.edu.do/PublishingImages/Educacion-continuada/Intro-Programacion-banner-2.jpg" alt=""><br>
   <span style="color:#F2C94C; font-size: 36px;">David Calle</span>
 </h1>
 
