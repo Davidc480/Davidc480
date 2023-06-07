@@ -1,17 +1,13 @@
 
 <h1 align="center">
-  <img src="https://2020.24h24l.org/images/banner-programacion.jpg" alt="[Texto alternativo]" style="border-radius: 5%; box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.75);"><br>
+  <img src="https://2020.24h24l.org/images/banner-programacion.jpg" alt="[Texto alternativo]" style="border-radius: 2%; box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.75);"><br><br>
   <span style="color:#F2C94C; font-size: 36px;">Hola! Mi nombre es David Calle</span>
 </h1>
 
-
-<!-- <h1 align="center">
-  <img src="https://2020.24h24l.org/images/banner-programacion.jpg" alt=""><br>
-  <span style="color:#F2C94C; font-size: 36px;">David Calle</span>
-</h1> -->
-
 <p align="center">
-  <b style="font-size: 20px;">[Descripción breve sobre ti y tus habilidades principales]</b>
+  <b style="font-size: 20px;">Soy un programador full-stack con mas de 700 horas  teórico-práctico y enfocado en el desarrollo back-end, comprometido en ofrecer soluciones de alta calidad para el éxito de las aplicaciones.
+  
+Con una sólida formación técnica y una profunda pasión por la programación, abordo cada proyecto con seriedad y profesionalismo. Mi objetivo es superar las expectativas al construir aplicaciones desde cero, empleando un enfoque meticuloso y detallado. </b>
 </p>
 
 <p align="center">
