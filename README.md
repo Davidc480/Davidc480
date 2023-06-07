@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://i0.wp.com/nlindia.com/wp-content/uploads/2021/06/node-js-banner.jpg?resize=802%2C201&ssl=1" alt="[Texto alternativo]"><br>
-  <span style="color:#F2C94C; font-size: 36px;">Tu Nombre</span>
+  <img src="https://www.codigomaster.com.br/wp-content/uploads/2022/11/Nodejs-banner-1.jpg" alt=""><br>
+  <span style="color:#F2C94C; font-size: 36px;">David Calle</span>
 </h1>
 
 <p align="center">
