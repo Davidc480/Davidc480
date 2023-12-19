@@ -20,6 +20,7 @@ Con una sólida formación técnica y una profunda pasión por la programación,
 
 - **JavaScript**
 - **React.js**
+- **Next.js 13**
 - **Node.js** 
 - **Express.js**
 - **PostgreSQL**
